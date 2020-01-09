@@ -9,6 +9,9 @@
 	color: #CC00AA;
 }
 
+.project-selector {
+	margin-left: 20px;
+}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
@@ -32,3 +35,21 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.project{
+	background-color: gray;
+	margin-left:10px;
+}
+
+img.thumbnail{
+	width:150px;
+	height:200px;
+	border: 1px solid #434343;
+}
+
+.contact-info{
+	font-size: 10pt;
+	color:#cccccc;
+}
+
+
